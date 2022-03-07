@@ -7,6 +7,11 @@ The original paper by Sven Koenig and Maxim Likhachev on the D* Lite algorithm i
 And also the mdeyo's python implementation of the algorithm is referenced for validty check - [link](https://github.com/mdeyo/d-star-lite)
 
 
+
+https://user-images.githubusercontent.com/58758359/156970675-1b05320d-3bcb-47be-b13c-152233911a14.mp4
+
+
+
 ## 1. Requirements
 OpenGL/FreeGlut
 
